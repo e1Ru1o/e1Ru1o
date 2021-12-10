@@ -2,7 +2,7 @@
 
 ### I'm Lázaro Raúl Iglesias Vera
 
-#### Currently I'm studing Computer Science in the University of Havana
+#### I'm Computer Scientist currently working at Nethermind
 
 #### See some of my skills 👇</h2>
 
