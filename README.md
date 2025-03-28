@@ -2,7 +2,7 @@
 
 ### I'm Lázaro Raúl Iglesias Vera
 
-#### I'm Computer Scientist currently working at Nethermind
+#### I'm Computer Scientist currently working at [0x](https://github.com/0xProject)
 
 #### See some of my skills 👇</h2>
 
